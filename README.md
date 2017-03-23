@@ -42,3 +42,4 @@
 - Redux
 - React
 - Webpack
+boilerplate: https://github.com/mikesilence/yakrrw
