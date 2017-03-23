@@ -38,8 +38,8 @@
 - Лекция не может прохожить в двух разных аудитория в одно и тоже время.
 
 ## Стек технологий
-- Koa
-- Redux
-- React
-- Webpack
-boilerplate: https://github.com/mikesilence/yakrrw
+- boilerplate: https://github.com/mikesilence/yakrrw
+    + Koa
+    + Redux
+    + React
+    + Webpack
